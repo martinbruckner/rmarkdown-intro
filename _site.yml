@@ -1,4 +1,5 @@
 name: "R Markdown Intro"
+output_dir: "."
 navbar:
   title: "R Markdown Intro"
   left:
